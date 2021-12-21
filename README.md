@@ -34,3 +34,6 @@ Don't forget to give it a star ⭐
 
 Open the project in vscode
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/imsudip/bells)
+
+### Download the App
+<a href="https://github.com/imsudip/bells/raw/main/bells_v1.apk" title="Download now"><img src="https://i.ibb.co/kHy4pMz/download.png" alt="download" border="0"></a>
